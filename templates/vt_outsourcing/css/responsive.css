@@ -1,0 +1,40 @@
+/*######  Design by VTEM http://www.vtem.net All Rights Reserved  ###########*/
+/* Portrait tablet and down */
+@media (max-width: 991px) {
+	.homepage .widget-logo a{margin-top: 20px;}
+	.menu-stick, .menu-button-main{float:right; top:-5px; color:#333; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; border:1px solid;}
+	.oMenuStickOpen .nav.nav-canvas, .oMenuOverwrite{display:block !important;}
+	.main-vtem-menu,
+	.main-vtem-menu li{display:block; width:100% !important; margin:1px 0 !important;}
+	.main-vtem-menu ul,
+	.main-vtem-menu ul ul,
+	.oVertical > .main-vtem-menu ul{position:relative !important; width:100% !important; left:0 !important;}
+	.slideshow .box_skitter .label_skitter{display:none !important;}
+	/*///////K2 COMPONENT /////////////*/
+	.subCategoryContainer{width:100% !important;}
+
+	/*/////// CURRENT THEME ////////////////////*/
+	.footer .vtem-block, .homepage .row > div{padding-top: 40px;}
+	.footer .vtem-block:first-child,
+	.homepage .row > div:first-child,
+	.section-topbar .row > div,
+	.homepage .section-header .row > div{padding-top:0;}
+	.homepage .menu-stick, .homepage .menu-button-main{top:15px;}
+	.know-us .widget-image-content:before, .our-team .tab-content:after{display:none;}
+	.about-us, .about-content{padding:60px 30px; text-align:center;}
+	.our-team .user-info{margin:0; background-color:#333;}
+	
+	
+}
+
+
+/* Landscape tablet and up */
+@media (max-width: 768px) {
+
+}
+
+
+/* Phone */
+@media (max-width: 480px) {
+
+}

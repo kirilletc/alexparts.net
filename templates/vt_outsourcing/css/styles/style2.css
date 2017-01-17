@@ -1,0 +1,52 @@
+body a, body a:hover, body a:focus,.primary-color, .widget-social .vtem-social a:hover .fa,.widget-featuredcontent h4,
+.quick-links ul.list-link a:hover,.text-theme, .text-template,
+.vtem-moduletable > .moduletable-content ul.menu li > a:hover,
+.vtem-moduletable > .moduletable-content ul.mostread li > a:hover,
+.vtem-moduletable > .moduletable-content ul.latestnews li > a:hover,
+.pagination > li > a,
+.pagination > li > span,
+.main-vtem-menu > li > a:hover,
+.main-vtem-menu > li > a:focus,
+.main-vtem-menu > li.menu-hover > a,
+.main-vtem-menu > li > span:hover,
+.main-vtem-menu > li.menu-hover > span,
+.main-vtem-menu > li.active > a,
+.main-vtem-menu > li.active > a:hover,
+.main-vtem-menu > li.active > a:focus,
+.main-vtem-menu > li.active > span,
+.main-vtem-menu > li.active > span:hover,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > .active > a:hover,
+.btn.btn-primary, .subCategoryContainer .subCategoryMore,
+.slideshow .box_skitter .label_skitter h1{color:#16b201;}
+
+
+.btn-primary,.footer .custom-html-content .input-group .input-group-addon,
+.bg-theme, .bg-template,
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover,
+.box_skitter .info_slide_dots .image_number_select,
+.box_skitter .info_slide_dots .image_number_select:hover{background-color:#16b201; border-color:#16b201;}
+.bg-theme, .bg-template,
+div.itemCommentsForm form input#submitCommentButton:hover,
+.accordion-heading.active,
+.main-vtem-menu > li > a:hover:after, .main-vtem-menu > li > a:focus:after, .main-vtem-menu > li.menu-hover > a:after, .main-vtem-menu > li > span:hover:after, .main-vtem-menu > li.menu-hover > span:after, .main-vtem-menu > li.active > a:after, .main-vtem-menu > li.active > a:hover:after, .main-vtem-menu > li.active > a:focus:after, .main-vtem-menu > li.active > span:after, .main-vtem-menu > li.active > span:hover:after,
+.best-tab .nav-tabs > li.active > a,
+.oHorizontal > ul > li.active > a, .oVertical > ul > li.active > a,
+.event-date, .best-gallery .filter-options > .btn.active,
+.btn.btn-primary:hover, .subCategoryContainer .subCategoryMore:hover,
+.our-team .user-content > div:after{background:#16b201 !important;}
+
+.subCategoryContainer .subCategoryMore:after,
+.subCategoryContainer .subCategoryMore:hover:after,
+.subCategoryContainer .subCategoryMore:active:after,
+.btn.btn-primary:after,
+.btn.btn-primary:hover:after, 
+.btn.btn-primary:active:after{border-color:#16b201 !important;}
+
+.widget-logo .logo0 a{background:url(vt_logo_style2.png) left 0 no-repeat;}
